@@ -23,6 +23,8 @@ public class EjemploGit {
          
          Git nuevoGit = new Git();
          nuevoGit.setNombreAdministrador("Miriam");
+         
+         nuevoGit.setNombreColaborador("Elo");
     }
     
 }
